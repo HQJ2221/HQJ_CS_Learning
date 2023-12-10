@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="708c5350-d8fb-4058-8ec7-29d5ed4cc990" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Lab7/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2VK6zFWLzhDdvMG7F5x1DfIvVYA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17 (2)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/sustc-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ken\IdeaProjects\CS203 Lab\Lab3\src" />
+      <recent name="C:\Users\ken\IdeaProjects\CS203 Lab\Lab2\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ken\IdeaProjects\CS203 Lab\Lab3\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="708c5350-d8fb-4058-8ec7-29d5ed4cc990" name="Changes" comment="" />
+      <created>1694572686702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694572686702</updated>
+      <workItem from="1694572687703" duration="5777000" />
+      <workItem from="1694614323803" duration="30578000" />
+      <workItem from="1694739088611" duration="3145000" />
+      <workItem from="1694751949289" duration="2868000" />
+      <workItem from="1694776559501" duration="3190000" />
+      <workItem from="1694782583396" duration="21290000" />
+      <workItem from="1694917018423" duration="44523000" />
+      <workItem from="1695104338874" duration="28986000" />
+      <workItem from="1695282590255" duration="867000" />
+      <workItem from="1695283794540" duration="4230000" />
+      <workItem from="1695294356310" duration="9827000" />
+      <workItem from="1695439398924" duration="53583000" />
+      <workItem from="1695772759424" duration="559000" />
+      <workItem from="1695781231845" duration="5564000" />
+      <workItem from="1695820275584" duration="7259000" />
+      <workItem from="1695866343822" duration="15788000" />
+      <workItem from="1695955380526" duration="10739000" />
+      <workItem from="1696049124196" duration="41216000" />
+      <workItem from="1696510291829" duration="14893000" />
+      <workItem from="1696605165685" duration="10000" />
+      <workItem from="1696679621915" duration="117000" />
+      <workItem from="1696766765973" duration="3707000" />
+      <workItem from="1696870304758" duration="1824000" />
+      <workItem from="1696905332149" duration="818000" />
+      <workItem from="1696917951288" duration="3835000" />
+      <workItem from="1696939403803" duration="160000" />
+      <workItem from="1696982883184" duration="605000" />
+      <workItem from="1696990632941" duration="4478000" />
+      <workItem from="1697011748258" duration="1096000" />
+      <workItem from="1697097929368" duration="4000" />
+      <workItem from="1697463779504" duration="141000" />
+      <workItem from="1697522619821" duration="5261000" />
+      <workItem from="1697593877251" duration="8015000" />
+      <workItem from="1697627722231" duration="9161000" />
+      <workItem from="1697698946954" duration="618000" />
+      <workItem from="1697722494944" duration="22448000" />
+      <workItem from="1698069029698" duration="10510000" />
+      <workItem from="1698161837309" duration="82000" />
+      <workItem from="1698190969303" duration="10000" />
+      <workItem from="1698199564044" duration="14918000" />
+      <workItem from="1698256813683" duration="348000" />
+      <workItem from="1698284973544" duration="30619000" />
+      <workItem from="1698495614438" duration="304000" />
+      <workItem from="1698565982672" duration="179000" />
+      <workItem from="1698566230506" duration="1937000" />
+      <workItem from="1698585789854" duration="19659000" />
+      <workItem from="1698747445830" duration="4000" />
+      <workItem from="1698747457731" duration="11141000" />
+      <workItem from="1698805363561" duration="12972000" />
+      <workItem from="1699058219183" duration="5000" />
+      <workItem from="1699058237889" duration="98000" />
+      <workItem from="1699323800060" duration="1889000" />
+      <workItem from="1699358351292" duration="2152000" />
+      <workItem from="1699405740718" duration="9616000" />
+      <workItem from="1699580206302" duration="33000" />
+      <workItem from="1699580248523" duration="2909000" />
+      <workItem from="1699616925166" duration="22000" />
+      <workItem from="1699668138130" duration="3196000" />
+      <workItem from="1699684350531" duration="78000" />
+      <workItem from="1700616228644" duration="33397000" />
+      <workItem from="1700882786545" duration="5179000" />
+      <workItem from="1700900616976" duration="951000" />
+      <workItem from="1700903746357" duration="2518000" />
+      <workItem from="1700979012695" duration="1854000" />
+      <workItem from="1701136283432" duration="22000" />
+      <workItem from="1701178682553" duration="70000" />
+      <workItem from="1701224463772" duration="7822000" />
+      <workItem from="1701324613788" duration="38477000" />
+      <workItem from="1701756061858" duration="8133000" />
+      <workItem from="1701827393124" duration="2041000" />
+      <workItem from="1701830474320" duration="5480000" />
+      <workItem from="1701836628540" duration="18000" />
+      <workItem from="1702174218358" duration="527000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.0.00">
+      <option name="closed" value="true" />
+      <created>1701830129700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701830129700</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0.00" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0.00" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab0/src/ProF.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab1/src/ProD.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab1/src/ProE.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab2/src/ProA.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab0/src/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab0/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab1/src/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab2/src/ProB.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab2/src/ProF.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab2/src/ProE.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/src/ProA.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/src/ProB.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/src/ProE.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/src/ProC.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/src/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/src/test.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/src/Main.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab4/src/ProA.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/src/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/src/CutTheArray.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab4/src/ProB.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab4/src/ProC.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab4/src/ProE.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab4/src/ProF.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab5/src/ProC.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab5/src/ProC.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab5/src/ProC.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab5/src/ProE.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab6/src/ProA.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab6/src/ProE.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab6/src/ProF.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
